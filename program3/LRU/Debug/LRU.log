@@ -1,0 +1,4 @@
+﻿  LRU.cpp
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program3\LRU\LRU.cpp(47,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program3\LRU\LRU.cpp(111,23): warning C4018: '<': signed/unsigned mismatch
+  LRU.vcxproj -> C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program3\LRU\Debug\LRU.exe

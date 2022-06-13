@@ -1,0 +1,4 @@
+﻿  Optimal.cpp
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program3\Optimal\Optimal.cpp(44,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program3\Optimal\Optimal.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+  Optimal.vcxproj -> C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program3\Optimal\Debug\Optimal.exe
