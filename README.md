@@ -1,4 +1,4 @@
-# OS_project3_PageReplacement
+# Page Replacement Algorithms
 
 1. Overview 
 In this project, we are going to write a program that implements several virtual-memory page 
